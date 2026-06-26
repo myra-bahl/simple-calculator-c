@@ -1,0 +1,6 @@
+Welcome to Simple Calculator!
+===== SIMPLE CALCULATOR =====
+Enter your choice: 1
+Enter first number: 15
+Enter second number: 7
+Result: 15.00 + 7.00 = 22.00
